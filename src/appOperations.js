@@ -1,3 +1,5 @@
+sampleSecret = "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"
+
 function multiply(num1, num2){
     return num1*num2;
 }
