@@ -15,7 +15,7 @@ jobs:
             - uses: actions/setup-node@v4
               with:
                 node-version: 20
-                registry-url: 'http//npm.pkg.github.com'
+                registry-url: 'http://npm.pkg.github.com'
                 scope: '@contidabela'
             - run: npm ci
             - run: npm publish
