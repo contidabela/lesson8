@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/contidabela/lesson8#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^30.0.5"
   }
 }
